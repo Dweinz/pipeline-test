@@ -1,2 +1,3 @@
+
 FROM alpine
-CMD ["echo", "Hello from FastAPI"]
+CMD ["echo", "Hello from CLI uploader"]
